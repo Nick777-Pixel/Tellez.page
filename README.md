@@ -9,4 +9,4 @@ my personal website and blog.
 - [tailwind](https://tailwindcss.com)
 - [umami](https://umami.is/)
 
-feel free to use this as a template for your own site, but please make sure to credit me by keeping my name on the homepage and in the repository readme. Ensure to fill out the necessary `.env` variables outlined in the `app/env.ts` file.
+feel free to use this as a template for your own site, but please make sure to credit me by keeping my name on the homepage and in the repository readme. Ensure to fill out the necessary `.env` variables outlined in the `app/env.ts` file..
